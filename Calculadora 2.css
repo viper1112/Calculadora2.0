@@ -1,0 +1,172 @@
+body {
+    background: rgb(192, 112, 192);
+    font: normal 15pt Arial;
+
+}
+
+header{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    background: rgb(0, 0, 0);
+
+}
+
+section {
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px black;
+
+}
+
+footer {
+    color: black;
+    text-align: center;
+    font-style: italic;
+  
+
+}
+
+div#x {
+    font: normal 25pt Arial;
+    text-align: center;
+}
+
+div#res {
+    text-align: center;
+    background: black;
+    color:rgb(255, 255, 255);
+    margin-top: 10px;
+
+}
+
+input#soma {
+    font: normal 20pt Arial;
+    width:100px;
+    height: 30px;
+    color: rgb(255, 255, 255);
+    background: rgb(0, 0, 0);
+    cursor: wait;
+    
+}
+
+input#soma1 {
+    font: normal 20pt Arial;
+    width:100px;
+    height: 30px;
+    color: rgb(255, 255, 255);
+    background: rgb(0, 0, 0);
+    cursor: wait;
+}
+
+input#sub {
+    font: normal 20pt Arial;
+    width:100px;
+    height: 30px;
+    color: rgb(255, 255, 255);
+    background: rgb(0, 0, 0);
+    cursor: wait;
+    text-align: center;
+    
+}
+
+input#sub1 {
+    font: normal 20pt Arial;
+    width:100px;
+    height: 30px;
+    color: rgb(255, 255, 255);
+    background: rgb(0, 0, 0);
+    cursor: wait;
+}
+div#res1 {
+    text-align: center;
+    background: black;
+    color:rgb(255, 255, 255);
+    margin-top: 10px;
+    font: normal 25pt Arial;
+
+}
+p#y {
+    font: normal 25pt Arial;
+    text-align: center;
+}
+
+input#multi {
+    font: normal 20pt Arial;
+    width:100px;
+    height: 30px;
+    color: rgb(255, 255, 255);
+    background: rgb(0, 0, 0);
+    cursor: wait;
+    text-align: center;
+    
+}
+
+input#multi1 {
+    font: normal 20pt Arial;
+    width:100px;
+    height: 30px;
+    color: rgb(255, 255, 255);
+    background: rgb(0, 0, 0);
+    cursor: wait;
+}
+p#res2 {
+    text-align: center;
+    background: black;
+    color:rgb(255, 255, 255);
+    margin-top: 10px;
+    font: normal 25pt Arial;
+
+}
+p#z {
+    font: normal 25pt Arial;
+    text-align: center;
+}
+
+
+input#div {
+    font: normal 20pt Arial;
+    width:100px;
+    height: 30px;
+    color: rgb(255, 255, 255);
+    background: rgb(0, 0, 0);
+    cursor: wait;
+    text-align: center;
+    
+}
+
+input#div1 {
+    font: normal 20pt Arial;
+    width:100px;
+    height: 30px;
+    color: rgb(255, 255, 255);
+    background: rgb(0, 0, 0);
+    cursor: wait;
+}
+div#res3 {
+    text-align: center;
+    background: black;
+    color:white;
+    margin-top: 10px;
+    font: normal 25pt Arial;
+
+}
+p#p {
+    font: normal 25pt Arial;
+    text-align: center;
+}
+p#copy {
+    font: italic 20pt Arial;
+}
+
+input[type=button]{
+    background-color: #000000;
+    border: none;
+    color: rgb(192, 112, 192);
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 2px 1px;
+    cursor: pointer;
+  }
